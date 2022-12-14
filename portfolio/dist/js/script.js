@@ -10,6 +10,7 @@ close.addEventListener('click', () => {
 	menu.classList.remove('active');
 });
 
+
 const counter = document.querySelectorAll('.skills-level__value'),
 	actual = document.querySelectorAll('.actual');
 
